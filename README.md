@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Qamar416
-- 👀 I’m interested in ... machien learning
-- 🌱 I’m currently learning ... c cpp
+- 👀 I’m interested in ... java
+- 🌱 I’m currently learning ... java / sql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email
 - 😄 Pronouns: ...Qamar
