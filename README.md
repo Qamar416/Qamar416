@@ -5,8 +5,4 @@
 - 📫 How to reach me ... email
 - 😄 Pronouns: ...Qamar
 - ⚡ Fun fact: ... fresher
-
-<!---
-Qamar416/Qamar416 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+i am practicing the git and github
